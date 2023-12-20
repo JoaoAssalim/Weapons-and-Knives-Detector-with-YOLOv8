@@ -37,7 +37,7 @@ pip install -r requirements.txt
 ```
 
 3. **System Execution:**
-4.
+
 ```
 python detect.py
 ```

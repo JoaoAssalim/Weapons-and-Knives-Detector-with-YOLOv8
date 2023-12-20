@@ -1,4 +1,4 @@
-# Weapon Detection System - Academic Project
+# Weapon and Knievs Detection System
 
 This repository contains the source code and resources related to the academic weapon detection project, developed as part of research in the area of ​​computer security.
 

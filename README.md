@@ -22,6 +22,10 @@ The main objective of this project is to design and implement an advanced system
 
 - **/ui:** Directory that stores UI classes
 
+## Dataset
+
+https://universe.roboflow.com/joao-assalim-xmovq/weapon-cudtp/model/2
+
 ## How to use
 
 1. **Repository Cloning:**

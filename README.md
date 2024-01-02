@@ -24,7 +24,7 @@ The main objective of this project is to design and implement an advanced system
 
 ## Dataset
 
-https://universe.roboflow.com/joao-assalim-xmovq/weapon-cudtp/model/2
+https://universe.roboflow.com/joao-assalim-xmovq/weapon-2/dataset/2
 
 ## How to use
 

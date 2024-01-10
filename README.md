@@ -14,13 +14,6 @@ The main objective of this project is to design and implement an advanced system
 
 - **Integration with IP Cameras:** The system is designed for easy integration with IP cameras, allowing for real-time surveillance and immediate notifications.
 
-## Repository Structure
-
-- **/yolov8:** Contains the project source code, including YOLOv8-specific implementations and related modules.
-
-- **/models:** Directory that stores the model in onnx
-
-- **/ui:** Directory that stores UI classes
 
 ## Dataset
 

@@ -43,7 +43,7 @@ pip install -r requirements.txt
 3. **System Execution:**
 
 ```
-python detect.py
+python detecting-images.py
 ```
 
 
